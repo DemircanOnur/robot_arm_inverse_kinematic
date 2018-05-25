@@ -21,8 +21,13 @@ The result must be figure 1.
 
 
 joint1: revolute, along z axis, between base_link and link1;
+
 joint2: revolute, along y axis, between link1 and link2;
+
 joint3: revolute, along y axis, between link2 and link3;
+
 joint4: revolute, along y axis, between link3 and link4;
+
 joint5: prismatic, along y axis, between link4 and link5;
+
 joint6: prismatic, along y axis, between link4 and link6;
