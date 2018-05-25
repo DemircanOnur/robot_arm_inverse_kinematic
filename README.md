@@ -8,6 +8,9 @@ URDF represents visual and collision of robot arms's joint and link.
 For work this project follow guide:
 
 $roscore  (Open rosmaster)
+
 $gazebo   (Open gazebo)
+
 //İf you encountered gazebo errors use:
+
 $gazebo -verbose
